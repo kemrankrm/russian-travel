@@ -1,0 +1,8 @@
+.header{
+    border: 0.05px solid turquoise;
+    width: 100%;
+    margin: 28px 48px 0;
+    box-sizing: content-box;
+    display: flex;
+    justify-content: space-between;
+}
