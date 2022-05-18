@@ -1,7 +1,6 @@
-.page {
-    background-color: #2A2C2F;
-    display: flex;
-    font-family: 'Inter';
+.page{
+    min-width: 320px;
+    background: #2A2C2F;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
