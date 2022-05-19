@@ -47,3 +47,10 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__text/cover__text.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
+
+/* footer styles */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__anchor/footer__anchor.css);
