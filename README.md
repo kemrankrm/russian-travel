@@ -8,4 +8,4 @@
 **Ссылка**
 
 Проект о путешествии по России можно найти по ссылке ниже:
-https://github.com/kemrankrm/russian-travel.git
+https://kemrankrm.github.io/russian-travel/
