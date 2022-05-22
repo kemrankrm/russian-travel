@@ -26,6 +26,5 @@
     .photo-grid{
       max-width: 1184px;
       grid-template-columns: repeat(4, 1fr);
-      margin: 92px auto 0;
     }
   }
